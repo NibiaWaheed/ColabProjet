@@ -11,7 +11,7 @@ body {
 p {
     font-size: 10px;
     color: #000; 
-    font-family:coop forged;
+    font-family:coopforged;
 }
 
 
@@ -19,15 +19,20 @@ p {
 .headphones {
     float: left;
 }
+
+}
 /* text */
 .text{
+    font-family: coopforged;
+    color: black;
+    
 
 }
 
 .text:hover {
 	opacity: 1.0;
 }
-/* gifs */
+/* gifs & images*/
 
 .gif1 {
 	width: 350px;
@@ -54,6 +59,14 @@ p {
     margin-left: 10px;
     margin-top: 40px;
     float: left;
+}
+
+.frac{
+    height:314.5px;
+    Width: 175px;
+    margin-top: 80px;
+    margin-right: 145px;
+    
 }
 /* buttons */
 
