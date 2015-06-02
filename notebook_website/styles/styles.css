@@ -22,11 +22,24 @@ p {
 
 }
 /* text */
-.text{
-    font-family: coopforged;
-    color: black;
-    
+@font-face {
+    font-family: myFont;
+    src: url(myFont.ttf);
+}
 
+.text1 {
+    font-family: myFont;
+    float: left;
+    margin-bottom: 260px;
+    margin-left: 50px;
+    color: black; 
+}
+.text1a {
+    float: left; 
+    margin-top: -400px;
+    margin-left: 60px;
+    width: 90px;
+    height: 42px;
 }
 
 .text:hover {
@@ -64,8 +77,10 @@ p {
 .frac{
     height:314.5px;
     Width: 175px;
-    margin-top: 80px;
-    margin-right: 145px;
+    float: right;
+    margin-bottom: 250px;
+    margin-top: -165px;
+    margin-right: 190px;
     
 }
 /* buttons */
