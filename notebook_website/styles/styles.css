@@ -145,6 +145,14 @@ p {
     float: right;
     margin-top: 50px;
 }
+
+/*4.html*/
+.workout{
+    width: 421px;
+    height: 559px;
+    float: left;
+    padding: 0px;
+}
 /* gifs & images*/
 
 .gif1 {
