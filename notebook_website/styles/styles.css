@@ -153,6 +153,15 @@ p {
     float: left;
     padding: 0px;
 }
+
+/*5.html*/
+.date{
+    width: 421px;
+    height: 559px;
+    float: right;
+    margin-top: -490px;
+    padding: 0px;
+}
 /* gifs & images*/
 
 .gif1 {
