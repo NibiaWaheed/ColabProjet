@@ -118,7 +118,7 @@ p {
 .frankiesleep{
     margin-top: -500px;
     margin-bottom: 250px;
-    margin-left: 350px;
+    margin-left: 420px;
     margin-right: -350px;
 
 }
@@ -127,10 +127,23 @@ p {
     float: right;
     height: 35px;
     width: 211px;
-    margin-top: 150px;
-    
-    margin-right: 100px;
+    margin-top: -160px;
+    margin-bottom: 260px;
+    margin-right: 150px;
     color: black; 
+}
+
+.controls {
+    margin-top: -20px;
+    margin-bottom: 170px;
+}
+
+.doodle2b{
+    padding: 0px;
+    width: 86px;
+    height: 95.5px;
+    float: right;
+    margin-top: 50px;
 }
 /* gifs & images*/
 
