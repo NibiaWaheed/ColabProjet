@@ -82,16 +82,40 @@ p {
 	opacity: 1.0;
 }
 
-/* text page 2.html*/
+/* text & content page 3.html*/
 .text2 {
     float: left;
     margin-top: 18px;
     margin-right: 200px;
-    margin-left: 130px;
+    margin-left: 120px;
     height: 35px;
     width: 219.5px;
     color: black; 
 }
+
+.doodle2{
+    height: 120px;
+    width: 97px;
+    float: left;
+    margin-top: 240px;
+    margin-right: 210px;
+    margin-left: -230px;
+    margin-bottom: -250px;
+    
+}
+
+.doodle2a{
+    height: 180px;
+    width: 300px;
+    float: left;
+    margin-top: 295px;
+    margin-right: -260px;
+    margin-left: -550px;
+    margin-bottom: 0px;
+    
+}
+
+
 /* gifs & images*/
 
 .gif1 {
@@ -108,7 +132,8 @@ p {
     height: 300px;
     margin-right: 100px;
     margin-left: 65px;
-    margin-top: 120px;
+    margin-top: -10px;
+    
     float: left;
 }
 
